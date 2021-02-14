@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.android\build-cache\09bacac4fa4462d4f422ce7ea76b496030dfba51\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\AndroidStudioProjects\Assignment2\app\build\intermediates\pre-dexed\debug\classes_ebf5abeda454d91ab7c9a16a0e7a72faeb3cac7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="D:\AndroidStudioProjects\Assignment2\app\build\intermediates\pre-dexed\debug\gson-2.7_dc630040e63120647b5f5c7805d5d2f6a1a7b436.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.android\build-cache\e18401a7895020722ccc7ae19af2a14055382bf8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\AndroidStudioProjects\Assignment2\app\build\intermediates\pre-dexed\debug\classes_10c959618ca8a93df0800f033b789f5423643dfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.android\build-cache\bde74f6835808271a4eb42b2896dcbfa65362164\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\AndroidStudioProjects\Assignment2\app\build\intermediates\pre-dexed\debug\classes_c96b1089c955b1529e4b97fc1fb5908df400eee4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.android\build-cache\56820abe2b6adf311c07bfc5ffc4bd09eeb0d0f3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\AndroidStudioProjects\Assignment2\app\build\intermediates\pre-dexed\debug\classes_fbbc6efca294d0a3da8e34033395e5c82360f5af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.android\build-cache\cd4b075914d454d5191f55ff6f6ae2efea35a159\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="D:\AndroidStudioProjects\Assignment2\app\build\intermediates\pre-dexed\debug\classes_a03fdee399eca74d54637f5518dc6e47832ef05b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.android\build-cache\27a17402c29182c412a196cf230294d5887de500\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="D:\AndroidStudioProjects\Assignment2\app\build\intermediates\pre-dexed\debug\classes_1ab026d229528600b5ddb80f521acc56cbf94545.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.android\build-cache\ba314dd9747aa2f285cc8906a6f6ae227050fc68\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7db18835e418c2cf1adfaf02f655f9ec72ef4143">
+        <dex dex="D:\AndroidStudioProjects\Assignment2\app\build\intermediates\pre-dexed\debug\classes_9c216feb5f044082bae55be0797d2affa9a8d3e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="D:\AndroidStudioProjects\Assignment2\app\build\intermediates\pre-dexed\debug\okhttp-3.2.0_f40b777dc917eb19f5464d237746f3921374d1e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\AndroidStudioProjects\Assignment2\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_4587515df70b11ae990e217c69c9b3a61733a049.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.android\build-cache\8ba1e6ac5e7e24aee563261586c99591a4b13951\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\AndroidStudioProjects\Assignment2\app\build\intermediates\pre-dexed\debug\classes_41d074f81ec5d869022df1baa12b920491c3c3a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.android\build-cache\8927a07d05888ccad400995f79099a47c65870d4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\AndroidStudioProjects\Assignment2\app\build\intermediates\pre-dexed\debug\classes_3fbb5aaf562e03c6e169dfdcfe6a0156e88debc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.android\build-cache\7575277931850c20583436f03e3228f2035f3c4c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\AndroidStudioProjects\Assignment2\app\build\intermediates\pre-dexed\debug\classes_afacbb5446a5119bce2fde8580ace982782277c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.android\build-cache\9dbd1ff9469601ae967457e528651610940f5ea0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\AndroidStudioProjects\Assignment2\app\build\intermediates\pre-dexed\debug\classes_829b7336d9a87d8f6f2cbe1b4ec2aa0f6e25b787.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.android\build-cache\7bb51662d7490fcac56b2e3468ae6ddcaeea5cbd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\AndroidStudioProjects\Assignment2\app\build\intermediates\pre-dexed\debug\classes_b40033bf01dd1c7ba7b4edb43a97d33d4de82d4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.android\build-cache\7202bf9df092172a44f89d3357f90f41a76427ce\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="D:\AndroidStudioProjects\Assignment2\app\build\intermediates\pre-dexed\debug\classes_822f1bef621261cfc0cdc2b033ed393ed6569957.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Dell\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\AndroidStudioProjects\Assignment2\app\build\intermediates\pre-dexed\debug\okio-1.6.0_e99ea1e1b0226597a0ed81fc387ca5bad8e7f538.jar" />
+    </item>
+
+</items>

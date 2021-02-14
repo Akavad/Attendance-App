@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/white">
+
+    <TextView
+        android:id="@+id/tvstartdate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="12dp"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="12dp"
+        android:text="@string/startdate" />
+
+    <TextView
+        android:id="@+id/tvsd"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/tvstartdate"
+        android:layout_marginLeft="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_toEndOf="@+id/tvstartdate"
+        android:layout_toRightOf="@+id/tvstartdate"
+        android:text="TextView"
+        android:textColor="@android:color/black" />
+
+    <TextView
+        android:id="@+id/tvenddate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/tvsd"
+        android:layout_alignBottom="@+id/tvsd"
+        android:layout_marginEnd="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_toLeftOf="@+id/tved"
+        android:layout_toStartOf="@+id/tved"
+        android:text="@string/enddate" />
+
+    <TextView
+        android:id="@+id/tved"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/tvenddate"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginEnd="12dp"
+        android:layout_marginRight="12dp"
+        android:text="TextView"
+        android:textColor="@android:color/black" />
+
+    <TextView
+        android:id="@+id/tvbatchid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/tvstartdate"
+        android:layout_alignStart="@+id/tvstartdate"
+        android:layout_below="@+id/tvstartdate"
+        android:layout_marginTop="12dp"
+        android:text="@string/batch_id"
+        android:textColor="@android:color/black"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tvbid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/tvbatchid"
+        android:layout_marginLeft="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_toEndOf="@+id/tvbatchid"
+        android:layout_toRightOf="@+id/tvbatchid"
+        android:text="TextView"
+        android:textColor="@color/colorPrimaryDark"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/tvcourseid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/tvbatchid"
+        android:layout_alignStart="@+id/tvbatchid"
+        android:layout_below="@+id/tvbatchid"
+        android:layout_marginTop="12dp"
+        android:text="@string/course_id" />
+
+    <TextView
+        android:id="@+id/tvcid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/tvcourseid"
+        android:layout_alignBottom="@+id/tvcourseid"
+        android:layout_marginLeft="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_toEndOf="@+id/tvcourseid"
+        android:layout_toRightOf="@+id/tvcourseid"
+        android:text="TextView"
+        android:textColor="@android:color/black" />
+
+    <TextView
+        android:id="@+id/tvsubjectid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/tvcid"
+        android:layout_alignBottom="@+id/tvcid"
+        android:layout_centerHorizontal="true"
+        android:text="@string/subject_id" />
+
+    <TextView
+        android:id="@+id/tvsid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/tvsubjectid"
+        android:layout_marginLeft="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_toEndOf="@+id/tvsubjectid"
+        android:layout_toRightOf="@+id/tvsubjectid"
+        android:text="TextView"
+        android:textColor="@android:color/black" />
+
+    <TextView
+        android:id="@+id/tvbatchtime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/tvcourseid"
+        android:layout_alignStart="@+id/tvcourseid"
+        android:layout_below="@+id/tvcourseid"
+        android:layout_marginBottom="12dp"
+        android:layout_marginTop="10dp"
+        android:text="@string/batch_time" />
+
+    <TextView
+        android:id="@+id/tvbtime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/tvbatchtime"
+        android:layout_marginLeft="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_toEndOf="@+id/tvbatchtime"
+        android:layout_toRightOf="@+id/tvbatchtime"
+        android:text="TextView"
+        android:textColor="@android:color/holo_green_dark" />
+
+</RelativeLayout>
